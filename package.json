@@ -1,0 +1,12 @@
+{
+  "name": "algorithm-command-center",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Algorithm Inc. COMMAND CENTRE — static Netlify deploy",
+  "scripts": {
+    "deploy": "netlify deploy --prod --dir ."
+  },
+  "devDependencies": {
+    "netlify-cli": "^26.1.0"
+  }
+}
